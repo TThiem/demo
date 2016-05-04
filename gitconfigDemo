@@ -1,8 +1,8 @@
 [color]
 	ui = auto
 [user]
-    name = Tom Bertalan
-	email = tom@tombertalan.com
+    name = Thomas Thiem
+	email = tthiem@princeton.edu
 [alias]
     changes=diff --name-status -r
     tree = log --oneline --decorate --graph --all
